@@ -1,7 +1,7 @@
 
 interface techObject {
-  title: string,
-  experience: number
+  title: string;
+  experience: number;
 }
 
 interface createUserData {

@@ -12,7 +12,8 @@ export default function helloWorld(req: Request, res: Response){
       {
         title: 'Javascript',
         experience: 100
-      }
+      }, 
+      
      ],
   });
 
